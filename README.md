@@ -1,0 +1,2 @@
+# Predicting_Industrial_Equipment_Failures_with-ML
+Predicting Industrial Equipment Failures with Machine Learning
