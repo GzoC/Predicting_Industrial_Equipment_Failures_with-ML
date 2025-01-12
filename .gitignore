@@ -3,6 +3,20 @@ echo .ipynb_checkpoints/ >> .gitignore
 echo *.csv >> .gitignore
 echo venv/ >> .gitignore
 
+# Archivos temporales
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+
+# Archivos de configuración
+*.env
+
+# Archivos de datos grandes
+*.csv
+*.xlsx
+*.zip
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
